@@ -1,4 +1,4 @@
-<div>
+<div class="fixed z-50 w-full">
     {{-- Do your work, then step back. --}}
     <nav class="w-full bg-secondary">
         <ul class="flex justify-between w-full">

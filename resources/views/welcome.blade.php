@@ -16,9 +16,11 @@
     </head>
     <body class="font-sans antialiased bg-white">
         <livewire:header />
-        <div class="relative flex justify-center">
+        <div class="relative flex justify-center top-navbar">
             <div class="container">
                 <livewire:carousel />
+                <livewire:information />
+                <livewire:rack />
             </div>
         </div>
         <livewire:footer />

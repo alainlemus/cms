@@ -1,5 +1,5 @@
 
-<footer class="fixed bottom-0 w-full p-4 bg-primary sm:p-6">
+<footer class="relative bottom-0 w-full p-4 bg-primary sm:p-6">
     <div class="max-w-screen-xl mx-auto">
         <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">

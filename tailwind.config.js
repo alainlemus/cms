@@ -18,7 +18,11 @@ export default {
             colors: {
                 primary: '#222c62', // Azul oscuro
                 secondary: '#b18d4f', // Dorado
-              },
+                primaryLight: '#2187c2', // Azul claro
+            },
+            spacing: {
+                'navbar': '88px', // Altura de la barra de navegación
+            },
         },
     },
     plugins: [],
